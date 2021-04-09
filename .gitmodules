@@ -7,3 +7,6 @@
 [submodule "rust-macros"]
 	path = rust-macros
 	url = git@github.com:guicurcio/rust-macros.git
+[submodule "iterator"]
+	path = iterator
+	url = git@github.com:guicurcio/iterator.git
