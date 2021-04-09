@@ -1,3 +1,9 @@
 [submodule "channels"]
 	path = channels
 	url = git@github.com:guicurcio/channels.git
+[submodule "smart-pointers"]
+	path = smart-pointers
+	url = git@github.com:guicurcio/smart-pointers.git
+[submodule "rust-macros"]
+	path = rust-macros
+	url = git@github.com:guicurcio/rust-macros.git
